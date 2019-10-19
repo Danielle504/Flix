@@ -61,7 +61,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Movies" id="ltD-Er-jPT"/>
                     <connections>
-                        <outlet property="tableView" destination="uum-V0-wQy" id="IHW-Xy-VN0"/>
+                        <outlet property="tableView" destination="uum-V0-wQy" id="9Cw-1u-iYS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
